@@ -1,16 +1,20 @@
-### Hi there 👋
+### Mr. Magorium's Wonder Emporium
+#### Please stop using Electron.
+![Please stop using Electron.](https://media4.giphy.com/media/cdynMKOQGkHKM/giphy.gif?cid=ecf05e47uxd02g4b2vxtao54t16lj1lmwl8qzo3bamxq8amy&rid=giphy.gif&ct=g)
 
-<!--
-**zkxjzmswkwl/zkxjzmswkwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Django abuser. Shameless Java pusher. C++/D fan.
 
-Here are some ideas to get you started:
+Skills: C++, D, Python, Java, Typescript, shit posting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Circus 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zkxjzmswkwl)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkxjzmswkwl)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/zkxjzmswkwl)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zkxjzmswkwl)  
+
+![Profile views](https://gpvc.arturio.dev/zkxjzmswkwl)  
