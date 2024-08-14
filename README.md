@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkxjzmswkwl)](https://github.com/anuraghazra/github-readme-stats)
-
+[![dade_murphy_2024](https://img.youtube.com/vi/Pxb5YrDjDZ8/0.jpg)](https://www.youtube.com/watch?v=Pxb5YrDjDZ8)
